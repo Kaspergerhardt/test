@@ -1,5 +1,9 @@
 """Basic calculation"""
 
+def multiply(left_hand, right_hand):
+    """multiply function"""
+    return left_hand + right_hand
+
 def subtract(left_hand, right_hand):
     """Substract function"""
     return left_hand - right_hand
